@@ -1,0 +1,17 @@
+.calculator {
+    max-width: 350px;
+    margin: 20px auto;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    background-color: #ffffff;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  @media (max-width: 600px) {
+    .calculator {
+      width: 95%; /* Full width on smaller screens */
+      padding: 10px;
+    }
+  }
+  

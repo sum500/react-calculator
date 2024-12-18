@@ -1,0 +1,13 @@
+.keypad {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 buttons per row */
+    gap: 10px; /* Space between buttons */
+    justify-items: center; /* Center buttons horizontally */
+  }
+  
+  @media (max-width: 600px) {
+    .keypad {
+      gap: 8px; /* Smaller gaps for smaller screens */
+    }
+  }
+    
