@@ -19,11 +19,6 @@ Access the live calculator here:
 
 ---
 
-## **Screenshots**
-
-![Calculator UI](https://via.placeholder.com/500x300.png?text=Calculator+App+UI)
-
----
 
 ## **Technologies Used**
 - **React.js**: Frontend framework
